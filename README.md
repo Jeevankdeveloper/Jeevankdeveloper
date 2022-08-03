@@ -6,7 +6,7 @@
 
 I'm
 web developer
-The crossover between design and programming has always been of interest to me, I've been learing web developments tools which will be useful to creat a responsive websites. I am learning front-end development ( HTML5, CSS3, Javascript)
+The crossover between design and programming has always been of interest to me. I've been learing web developments tools which will be useful to creat a responsive websites. I am learning front-end development ( HTML5, CSS3, Javascript)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
