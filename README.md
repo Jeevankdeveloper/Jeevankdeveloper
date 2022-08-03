@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Jeevan-yellow)](https://stackoverflow.com/users/19618144/jeevan-kumar)
 
 I'm
-web developer
+a web developer.
 The crossover between design and programming has always been of interest to me. I've been learing web developments tools which will be useful to creat a responsive websites. I am learning front-end development ( HTML5, CSS3, Javascript)
 
 
