@@ -9,7 +9,7 @@ web developer
 The crossover between design and programming has always been of interest to me. I've been learing web developments tools which will be useful to creat a responsive websites. I am learning front-end development ( HTML5, CSS3, Javascript)
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Jeevankdeveloper/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
@@ -23,7 +23,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=Jeevankdeveloper&theme=react-dark&area=true)
 <!--
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jeevankdeveloper/Jeevankdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
