@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jeevan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeevan-kumar-a865b0247/)](https://www.linkedin.com/in/jeevan-kumar-a865b0247/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Jeevan-green)](https://www.jeevan)
+[![Website Badge](https://img.shields.io/badge/WebSite-Jeevan-green)](https://jeevankdeveloper.github.io/JeevanProfile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Jeevan-yellow)](https://stackoverflow.com/users/19618144/jeevan-kumar)
 
 I'm
